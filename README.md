@@ -1,2 +1,2 @@
 # Crossy_Road_Documentation
-C'est le repository pour la documentation de notre projet
+This is the repository for our project documentation.
