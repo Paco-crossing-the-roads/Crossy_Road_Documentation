@@ -33,7 +33,7 @@ The aim of this project is to produce an executable of the game to validate the 
     <img
       src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"
       alt="unity"
-      width="50"
+      width="80"
       height="50"
     />
   </a>
@@ -47,6 +47,8 @@ The aim of this project is to produce an executable of the game to validate the 
   </a>
 
 # :toolbox: Getting Started
+
+We are going to show you the UML diagrams produced for this project 
 
 # :gear: UML
 
