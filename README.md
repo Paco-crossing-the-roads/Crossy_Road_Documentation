@@ -48,6 +48,8 @@ The aim of this project is to produce an executable of the game to validate the 
 
 # :toolbox: Getting Started
 
+We are going to show you the UML diagrams produced for this project 
+
 # :gear: UML
 
 ## Class Diagram
