@@ -55,7 +55,7 @@ We are going to show you the UML diagrams produced for this project.
 ## Gantt Diagram
 
 The gantt chart is only available in PDF format.
-![Gantt Diagram](./Gantt_Diagram.pdf)
+[Gantt Diagram](./Gantt_Diagram.pdf)
 
 ## Class Diagram
 
