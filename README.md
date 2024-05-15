@@ -54,15 +54,15 @@ We are going to show you the UML diagrams produced for this project
 
 ## Class Diagram
 
-[class](./DiagramsCrossy/Class_Diagram.png)
+![class](./DiagramsCrossy/Class_Diagram.png)
 
 ## Activity Diagram
 
-[activity](./DiagramsCrossy/Activity_Diagram.png)
+![activity](./DiagramsCrossy/Activity_Diagram.png)
 
 ## Use Case Diagram
 
-[useCase](./DiagramsCrossy/Use_Case.png)
+![useCase](./DiagramsCrossy/Use_Case.png)
 
 # :wave: Contributors
 
