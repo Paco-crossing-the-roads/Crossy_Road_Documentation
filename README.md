@@ -10,7 +10,13 @@
     />
 
 <h2>This is the repository for our project documentation</h2>
-
+<h4>
+    <a href="https://github.com/Paco-crossing-the-roads/Crossy_Roads_Cnam">Go to the repository</a>
+  <span> · </span>
+    <a href="https://github.com/Paco-crossing-the-roads/Crossy_Roads_Cnam/issues">Report a bug</a>
+  <span> · </span>
+    <a href="https://github.com/orgs/Paco-crossing-the-roads/projects/2">Go to the board</a>
+  </h4>
 </div>
 
 # :notebook_with_decorative_cover: Summary
@@ -18,14 +24,15 @@
 - [:notebook_with_decorative_cover: About the project](#star2-about-the-project)
   - [:space_invader: Technologies](#space_invader-technologies)
 - [:toolbox: Getting Started](#toolbox-getting-started)
+  - [:clipboard: Issue Board](#clipboard-issue-board)
   - [:gear: UML](#gear-uml)
 - [:wave: Contributors](#wave-contributors)
 
 ## :star2: About the project
 
-This project is based on a reproduction of the crossy road game. 
-We had the option of modifying the assets and we decided to make the game using the Pac-Man assets.
-The aim of this project is to produce an executable of the game to validate the OOP and UML subjects.
+This project is based on a reproduction of the crossy road game.<br>
+We had the option of modifying the assets and we decided to make the game using the Pac-Man assets.<br>
+The aim of this project is to produce an executable of the game to validate the OOP and UML subjects.<br>
 
 ### :space_invader: Technologies
 
@@ -48,7 +55,13 @@ The aim of this project is to produce an executable of the game to validate the 
 
 # :toolbox: Getting Started
 
-We are going to show you the UML diagrams produced for this project. 
+We're going to show you our project organization and the UML diagrams we've produced.
+
+# :clipboard: Issue Board
+
+To organize our work, we set up an issue board using GitHub's functionalities.<br>
+This board enabled us to track the progress of issues, to know who was assigned to them and whether they were in todo or in progress.<br>
+We invite you to visit our [Issue Board](https://github.com/orgs/Paco-crossing-the-roads/projects/2)
 
 # :gear: UML
 
