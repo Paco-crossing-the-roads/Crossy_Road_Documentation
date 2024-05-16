@@ -68,7 +68,7 @@ We invite you to visit our [Issue Board](https://github.com/orgs/Paco-crossing-t
 
 We have written the specifications for our game in the following documents: 
 - [Specs EN](./Specs_Crossy_Road_EN.pdf)
-- [Specs FR](./Specs_Crossy_Road_FR.pdf)
+- [Specs FR](./Specs_Crossy_Road_FR.pdf)<br>
 Here we've summarized the main functions of the project and the game environment we've created.
 
 # :gear: UML
