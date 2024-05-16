@@ -25,6 +25,7 @@
   - [:space_invader: Technologies](#space_invader-technologies)
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:clipboard: Issue Board](#clipboard-issue-board)
+  - [:memo: Specs](#memo-specs)
   - [:gear: UML](#gear-uml)
 - [:wave: Contributors](#wave-contributors)
 
@@ -62,6 +63,13 @@ We're going to show you our project organization and the UML diagrams we've prod
 To organize our work, we set up an issue board using GitHub's functionalities.<br>
 This board enabled us to track the progress of issues, to know who was assigned to them and whether they were in todo or in progress.<br>
 We invite you to visit our [Issue Board](https://github.com/orgs/Paco-crossing-the-roads/projects/2)
+
+# :memo: Specs 
+
+We have written the specifications for our game in the following documents: 
+- [Specs EN](./Specs_Crossy_Road_EN.pdf)
+- [Specs FR](./Specs_Crossy_Road_FR.pdf)
+Here we've summarized the main functions of the project and the game environment we've created.
 
 # :gear: UML
 
