@@ -55,7 +55,7 @@ The aim of this project is to produce an executable of the game to validate the 
 
 # :toolbox: Getting Started
 
-We are going to show you the UML diagrams produced for this project. 
+We're going to show you our project organization and the UML diagrams we've produced.
 
 # :clipboard: Issue Board
 
