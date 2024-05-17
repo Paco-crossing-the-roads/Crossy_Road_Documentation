@@ -11,6 +11,8 @@
 
 <h2>This is the repository for our project documentation</h2>
 <h4>
+    <a href="https://github.com/Paco-crossing-the-roads/Crossy_Roads_Cnam/releases/tag/v3.0.0">Go to the exe</a>
+  <span> · </span>
     <a href="https://github.com/Paco-crossing-the-roads/Crossy_Roads_Cnam">Go to the repository</a>
   <span> · </span>
     <a href="https://github.com/Paco-crossing-the-roads/Crossy_Roads_Cnam/issues">Report a bug</a>
