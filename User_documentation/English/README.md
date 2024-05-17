@@ -29,7 +29,7 @@
 
 # :globe_with_meridians: Introduction
 
-Paco Crossy Road is the project for our first-year engineering diploma, based on the popular arcade game where the player controls a character who has to cross a series of roads, rivers and other obstacles without getting run over or falling into the water. The aim is to progress as far as possible while collecting coins to unlock new characters.<br>
+Paco Crossy Road is the project for our first-year engineering diploma, based on the popular arcade game where the player controls a character who has to cross a series of roads, rivers and other obstacles without getting run over or falling into the water. The aim is to progress as far as possible while collecting coins.<br>
 We used assets from the famous Pac-Man game to create a world that differs from Crossy Road.
 
 ![Paco](../Images/Paco_Crossy.png)
@@ -66,7 +66,7 @@ To pause the game, press the **P** key. The game will stop, and a pause menu wil
 
 ## :moneybag: Coin collection
 
-Throughout the game, coins will appear along the way. Collect them to increase your score and unlock new characters.
+Throughout the game, coins will appear along the way. Collect them to increase your score.
 
 ## :no_entry: Obstacles and Dangers
 
@@ -84,7 +84,7 @@ The game ends when the character is run over by a car, falls into water, or is h
 
 - Take your time to observe the pattern of cars and other hazards before crossing.
 - Use the floating logs and other objects to plan your river crossing.
-- Try to collect as many coins as possible to unlock new characters.
+- Try to collect as many coins as possible.
 
 # :wave: Conclusion
 

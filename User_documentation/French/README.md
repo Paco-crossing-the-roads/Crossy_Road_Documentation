@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center" >
-<h1 align="center">Paco Road Documentation utilisateur</h1>
+<h1 align="center">Paco Road Documentation technique</h1>
  <img
       src="https://www.classicgaming.cc/classics/pac-man/images/icons/pac-man-512x512.png"
       alt="logo"
@@ -9,7 +9,7 @@
       height="100"
     />
 
-<h2>C'est la documentation utilisateur</h2>
+<h2>C'est la documentation technique</h2>
 </div>
 
 # :notebook_with_decorative_cover: Sommaire
@@ -29,7 +29,7 @@
 
 # :globe_with_meridians: Introduction
 
-Paco Crossy Road est le projet pour notre première année du diplôme d'ingénieur qui se base sur le réel jeu d'arcade populaire où le joueur contrôle un personnage qui doit traverser une série de routes, rivières et autres obstacles sans se faire écraser ou tomber dans l'eau. L'objectif est de progresser le plus loin possible tout en collectant des pièces pour débloquer de nouveaux personnages.<br>
+Paco Crossy Road est le projet pour notre première année du diplôme d'ingénieur qui se base sur le réel jeu d'arcade populaire où le joueur contrôle un personnage qui doit traverser une série de routes, rivières et autres obstacles sans se faire écraser ou tomber dans l'eau. L'objectif est de progresser le plus loin possible tout en collectant des pièces.<br>
 Nous avons utilisé les assets du célèbre jeu Pac-Man afin de réaliser un univers diffèrent du jeu Crossy Road.
 
 ![Paco](../Images/Paco_Crossy.png)
@@ -66,7 +66,7 @@ Pour mettre le jeu en pause, appuyez sur la touche **P**. Le jeu s'arrêtera, et
 
 ## :moneybag: Collecte de Pièces
 
-Tout au long du jeu, des pièces apparaîtront sur le chemin.<br> Ramassez-les pour augmenter votre score et débloquer de nouveaux personnages.
+Tout au long du jeu, des pièces apparaîtront sur le chemin.<br> Ramassez-les pour augmenter votre score.
 
 ## :no_entry: Obstacles et Dangers
 
@@ -84,7 +84,7 @@ Le jeu se termine lorsque le personnage est écrasé par une voiture, tombe dans
 
 - Prenez votre temps pour observer le schéma des voitures et autres dangers avant de traverser.
 - Utilisez les troncs flottants et autres objets pour planifier votre traversée des rivières.
-- Essayez de collecter autant de pièces que possible pour débloquer de nouveaux personnages.
+- Essayez de collecter autant de pièces que possible.
 
 # :wave: Conclusion
 
