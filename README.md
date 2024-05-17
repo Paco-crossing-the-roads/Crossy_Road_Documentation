@@ -24,11 +24,11 @@
 - [:notebook_with_decorative_cover: About the project](#star2-about-the-project)
   - [:space_invader: Technologies](#space_invader-technologies)
 - [:toolbox: Getting Started](#toolbox-getting-started)
-  - [:clipboard: Issue Board](#clipboard-issue-board)
-  - [:page_facing_up: Technical Documentation](#page_facing-technical-documentation)
-  - [:page_facing_up: User Documentation](#page_facing-user-documentation)
+  - [:bar_chart: Issue Board](#bar_chart-issue-board)
+  - [:pencil: Technical Documentation](#pencil-technical-documentation)
+  - [:pencil: User Documentation](#pencil-user-documentation)
   - [:gear: UML](#gear-uml)
-- [:wave: Contributors](#wave-contributors)
+- [:copyright: Contributors](#copyright-contributors)
 
 ## :star2: About the project
 
@@ -59,13 +59,13 @@ The aim of this project is to produce an executable of the game to validate the 
 
 We're going to show you our project organization and the UML diagrams we've produced.
 
-# :clipboard: Issue Board
+# :bar_chart: Issue Board
 
 To organize our work, we set up an issue board using GitHub's functionalities.<br>
 This board enabled us to track the progress of issues, to know who was assigned to them and whether they were in todo or in progress.<br>
 We invite you to visit our [Issue Board](https://github.com/orgs/Paco-crossing-the-roads/projects/2)
 
-# :page_facing_up: Technical Documentation
+# :pencil: Technical Documentation
 
 We've summarized the main functions of the project and the game environment we've created.<br>
 We have written the specifications for our game in the following documents:
@@ -73,7 +73,7 @@ We have written the specifications for our game in the following documents:
 - [Tech Doc EN](https://github.com/Paco-crossing-the-roads/Crossy_Road_Documentation/tree/main/Technical_documentation/English/README.md)
 - [Tech Doc FR](https://github.com/Paco-crossing-the-roads/Crossy_Road_Documentation/tree/main/Technical_documentation/French/README.md)
 
-# :page_facing_up: User Documentation
+# :pencil: User Documentation
 
 We've also written a user documentation to make your experience easier.<br>
 You can find the documentation in the following documents:
