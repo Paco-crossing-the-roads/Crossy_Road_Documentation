@@ -14,7 +14,7 @@
 
 # :notebook_with_decorative_cover: Summary
 
-- [:octocat: Introduction](#octocat-introduction)
+- [:globe_with_meridians: Introduction](#globe_with_meridians-introduction)
 - [:video_game: Game Mode](#video_game-game-mode)
   - [:dart: Objective](#dart-objective)
   - [:gear: Main menu](#gear-main-menu)
@@ -27,7 +27,7 @@
 - [:wave: Conclusion](#wave-conclusion)
 - [:copyright: Contributors](#copyright-contributors)
 
-# :octocat: Introduction
+# :globe_with_meridians: Introduction
 
 Paco Crossy Road is the project for our first-year engineering diploma, based on the popular arcade game where the player controls a character who has to cross a series of roads, rivers and other obstacles without getting run over or falling into the water. The aim is to progress as far as possible while collecting coins to unlock new characters.<br>
 We used assets from the famous Pac-Man game to create a world that differs from Crossy Road.
