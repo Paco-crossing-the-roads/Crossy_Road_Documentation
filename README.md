@@ -21,7 +21,7 @@
 
 # :notebook_with_decorative_cover: Summary
 
-- [:notebook_with_decorative_cover: About the project](#star2-about-the-project)
+- [:star2: About the project](#star2-about-the-project)
   - [:space_invader: Technologies](#space_invader-technologies)
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:bar_chart: Issue Board](#bar_chart-issue-board)
