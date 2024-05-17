@@ -48,6 +48,12 @@ When the game is launched, a main menu appears. Here you can choose to start a n
 
 ![Menu](../Images/Menu_principal.png)
 
+## :gear: Score Board
+
+This menu allows you to view the player's high score.
+
+![Score](../Images/Scoring_Board.png)
+
 ## :keyboard: Game Controls
 
 - **Character movement**:
@@ -55,8 +61,6 @@ When the game is launched, a main menu appears. Here you can choose to start a n
   - :arrow_down: **Arrow Down** : Move back
   - :arrow_left: **Arrow Left** : Move left
   - :arrow_right: **Arrow Right** : Move right
-
-<!-- ## :parking: Pause -->
 
 ## :pause_button: Pause
 

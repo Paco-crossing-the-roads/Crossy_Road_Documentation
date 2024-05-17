@@ -48,6 +48,12 @@ Au lancement du jeu, un menu principal apparaîtra. Vous pourrez y choisir de co
 
 ![Menu](../Images/Menu_principal.png)
 
+## :gear: Menu score
+
+Ce menu permet de consulter le meiulleur score du joueur.
+
+![Score](../Images/Scoring_Board.png)
+
 ## :keyboard: Commandes de Jeu
 
 - **Mouvement du personnage**:
@@ -55,8 +61,6 @@ Au lancement du jeu, un menu principal apparaîtra. Vous pourrez y choisir de co
   - :arrow_down: **Flèche Bas** : Reculer
   - :arrow_left: **Flèche Gauche** : Se déplacer à gauche
   - :arrow_right: **Flèche Droite** : Se déplacer à droite
-
-<!-- ## :parking: Pause -->
 
 ## :pause_button: Pause
 
