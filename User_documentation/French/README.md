@@ -88,7 +88,7 @@ Le jeu se termine lorsque le personnage est écrasé par une voiture, tombe dans
 
 # :wave: Conclusion
 
-Crossy Road est un jeu simple mais addictif, offrant une expérience amusante et stimulante pour tous les âges. Utilisez les flèches pour déplacer votre personnage et la touche P pour faire une pause lorsque nécessaire. Collectez des pièces et évitez les obstacles pour obtenir le meilleur score possible.<br><br>
+Crossy Road est un jeu simple mais addictif, offrant une expérience amusante et stimulante pour tous les âges. Utilisez les flèches pour déplacer votre personnage et la touche P pour faire une pause lorsque nécessaire. Collectez des pièces et évitez les obstacles pour obtenir le meilleur score possible.
 
 Amusez-vous bien et essayez de battre votre propre record !
 
