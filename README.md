@@ -100,6 +100,10 @@ The gantt chart is only available in PDF format.
 
 ![sequence](./Images/Sequence_Diagram.png)
 
+## State Diagram
+
+![state](./Images/State_Diagram.png)
+
 ## Use Case Diagram
 
 ![useCase](./Images/Use_Case.png)
