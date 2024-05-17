@@ -16,7 +16,7 @@
 
 - [:octocat: Introduction](#octocat-introduction)
 - [:video_game: Mode de Jeu](#video_game-mode-de-jeu)
-  - [:diamond_shape_with_a_dot_inside: Objectif](#diamond_shape_with_a_dot_inside-objectif)
+  - [:dart: Objectif](#dart-objectif)
   - [:gear: Menu principal](#gear-menu-principal)
   - [:keyboard: Commandes de Jeu](#keyboard-commandes-de-jeu)
   - [:pause_button: Pause](#pause_button-pause)
@@ -36,7 +36,7 @@ Nous avons utilisé les assets du célèbre jeu Pac-Man afin de réaliser un uni
 
 # :video_game: Mode de Jeu
 
-## :diamond_shape_with_a_dot_inside: Objectif
+## :dart: Objectif
 
 Le but principal de Paco Crossy Road, comme pour le jeu réel, est de faire traverser le personnage à travers des routes, des rivières, et d'autres obstacles tout en évitant les dangers. Plus le personnage progresse, plus le score du joueur augmente.
 
