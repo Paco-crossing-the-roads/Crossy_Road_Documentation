@@ -78,8 +78,8 @@ We have written the specifications for our game in the following documents:
 We've also written a user documentation to make your experience easier.<br>
 You can find the documentation in the following documents:
 
-- [Tech User EN](https://github.com/Paco-crossing-the-roads/Crossy_Road_Documentation/tree/main/User_documentation/English/README.md)
-- [Tech User FR](https://github.com/Paco-crossing-the-roads/Crossy_Road_Documentation/tree/main/User_documentation/French/README.md)
+- [User Doc EN](https://github.com/Paco-crossing-the-roads/Crossy_Road_Documentation/tree/main/User_documentation/English/README.md)
+- [User Doc FR](https://github.com/Paco-crossing-the-roads/Crossy_Road_Documentation/tree/main/User_documentation/French/README.md)
 
 # :gear: UML
 
